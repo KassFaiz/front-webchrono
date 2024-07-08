@@ -1,0 +1,37 @@
+{
+  "name": "webchrono-front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs": "^4.0.0",
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "cookie-cutter": "^0.2.0",
+    "cookies": "^0.8.0",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "eventemitter3": "^5.0.0",
+    "gestalt": "^101.1.8",
+    "moment": "^2.29.4",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-alice-carousel": "^2.7.0",
+    "react-cookie": "^4.1.1",
+    "react-dom": "18.2.0",
+    "react-feather": "^2.0.10",
+    "react-responsive": "^9.0.2",
+    "react-responsive-carousel": "^3.2.23",
+    "react-toastify": "^9.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.11",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}

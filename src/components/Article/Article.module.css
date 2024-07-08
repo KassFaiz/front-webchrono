@@ -1,0 +1,14 @@
+.carousel_article {
+  width: 95%;
+}
+
+.carousel_article_img_link_wrapper {
+  display: block;
+}
+
+.carousel_article_img {
+  width: 100%;
+  aspect-ratio: 1 / 1.3;
+  border: 1px solid #e6002360;
+  border-radius: 10px;
+}
