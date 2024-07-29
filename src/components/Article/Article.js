@@ -61,7 +61,7 @@ export default function Article({
         </div>
         <Box marginTop={1} marginBottom={3}>
           <Text as="h5" align="center" color="error" weight="bold">
-            {convertCurrency(finalArticle?.price)}
+            {convertCurrency(finalArticle?.price)} €
           </Text>
         </Box>
         <Flex>
